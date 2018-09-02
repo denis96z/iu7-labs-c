@@ -1,0 +1,11 @@
+job_code	job_grade	job_country	job_title			min_salary	max_salary
+CEO		1		USA		Chief_Executive_Officer		130000		250000
+CFO		1		USA		Chief_Financial_Officer		85000		140000
+VP		2		USA		Vice_President			80000		130000
+Dir		2		USA		Director			75000		120000
+Mngr		3		USA		Manager				60000		100000
+Mngr		4		USA		Manager				30000		60000
+Admin		4		USA		Administrative_Assistant	35000		55000
+Admin		5		USA		Administrative_Assistant	20000		40000
+Admin		5		England		Administrative_Assistant	13400		26800
+PRel		4		USA		Public_Relations_Rep.		25000		65000
